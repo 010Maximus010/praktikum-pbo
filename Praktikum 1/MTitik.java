@@ -1,6 +1,9 @@
-//Nama: Muhammad Afiat Yulianto
+//Nama File: MTitik.java 25/02/2023
+//Penulis: Muhammad Afiat Yulianto
 //NIM: 24060121140141
 //LAB: PBO B2
+//Deskripsi: Kelas yang berisi program utama yang memanfaatkan kelas Titik
+
 
 class MTitik{
 	public static void main(String[] args){
