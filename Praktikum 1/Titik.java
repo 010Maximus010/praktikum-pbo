@@ -1,6 +1,7 @@
 //Nama: Muhammad Afiat Yulianto
 //NIM: 24060121140141
 //LAB: PBO B2
+//Deskripsi: Program kelas Titik
 
 class Titik{
 		int absis;
