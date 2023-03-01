@@ -5,33 +5,33 @@
 //Deskripsi: Program kelas Titik
 
 class Titik{
-		int absis;
-		int ordinat;
+		double absis;
+		double ordinat;
 		static int counterTitik;
 		
 		Titik(){
-			absis = 0;
-			ordinat = 0;
+			absis = 0.0;
+			ordinat = 0.0;
 			counterTitik++;
 			}
-		Titik(int a, int o){
+		Titik(double a, double o){
 			absis = a;
 			ordinat= o;
 			counterTitik ++;
 			}	
-		void setAbsis (int a){
+		void setAbsis (double a){
 			absis = a;
 			}
 			
-		void setOrdinat (int o){
+		void setOrdinat (double o){
 			ordinat = o;
 			}
 		
-		int getAbsis(){
+		double getAbsis(){
 			return absis;
 			}
 			
-		int getOrdinat(){
+		double getOrdinat(){
 			return ordinat;
 			}
 			
