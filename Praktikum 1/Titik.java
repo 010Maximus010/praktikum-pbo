@@ -1,4 +1,5 @@
-//Nama: Muhammad Afiat Yulianto
+//Nama File: Titik.java 25/02/2023
+//Penulis: Muhammad Afiat Yulianto
 //NIM: 24060121140141
 //LAB: PBO B2
 //Deskripsi: Program kelas Titik
