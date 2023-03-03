@@ -2,7 +2,7 @@
 //Penulis: Muhammad Afiat Yulianto
 //NIM: 24060121140141
 //LAB: PBO B2
-//Deskripsi: Program class OperasiTitik
+//Deskripsi: Kelas yang berisi program utama yang memanfaatkan kelas OperasiTitik
 
 class MOperasiTitik{
 	public static void main(String[] args){
