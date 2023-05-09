@@ -2,7 +2,7 @@
 //Penulis: Muhammad Afiat Yulianto
 //NIM: 24060121140141
 //LAB: PBO B2
-//Deskripsi: 
+//Deskripsi: Program untuk demo Polimorfisme Inclusion
 
 public class Sewa{
 	public static void main(String[] args){
