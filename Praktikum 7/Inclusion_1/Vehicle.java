@@ -2,7 +2,7 @@
 //Penulis: Muhammad Afiat Yulianto
 //NIM: 24060121140141
 //LAB: PBO B2
-//Deskripsi: 
+//Deskripsi: Program untuk demo Polimorfisme Inclusion
 
 public class Vehicle{
 	void calRent(int distance, float price){
