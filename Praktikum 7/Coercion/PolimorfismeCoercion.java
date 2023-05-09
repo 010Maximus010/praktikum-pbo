@@ -2,7 +2,7 @@
 //Penulis: Muhammad Afiat Yulianto
 //NIM: 24060121140141
 //LAB: PBO B2
-//Deskripsi: 
+//Deskripsi: Program Polimorfisme Coercion
 
 public class PolimorfismeCoercion{
 	public static int kuadrat(int bilangan){
